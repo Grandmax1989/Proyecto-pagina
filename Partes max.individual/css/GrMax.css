@@ -1,0 +1,23 @@
+.sizediv {
+    
+    width: 100%;
+    background-image: url("../img/travelers.jpg")
+}
+.textplate{
+    height: fit-content;
+    width: 50%;
+    background-color: yellow;
+    text-align: center;
+    
+}
+.urldir{
+    background-color: transparent;
+
+}
+.textH{
+   background-color: transparent
+}
+.urldir1{
+   background-color: yellow
+
+}

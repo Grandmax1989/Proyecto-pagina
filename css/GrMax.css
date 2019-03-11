@@ -1,0 +1,59 @@
+.stylediv{
+    background-color:yellow;
+    display: block;
+    position: relative;
+    bottom: 170px;
+    left: 30px;
+    padding: 5px;
+    height: 100%;
+    width: 50%;
+}
+
+
+
+.img11{
+    display: block;
+    position: relative;        
+    width: 100%;
+   }
+.textoplate {
+    background-color:transparent;
+    display: block;
+    position: relative;
+    bottom: 0px;
+    left: 30px;
+    padding: 5px;
+    width: 50%;
+   }
+   .styledivpadre {
+    
+    display: block;
+    position: wi;
+    bottom: 170px;
+    left: 30px;
+    padding: 5px;
+    height: 100%;
+    width: 50%;
+}
+.sectiondiv {
+    display: table;
+}
+   
+.spaceof21 {
+    width: 33%;
+    
+    display:table-column;
+    
+}
+.spaceof22 {
+    width: 33%;
+    
+    display:table-column;
+    
+}
+.spaceof23 {
+    width: 33%;
+    
+    display:table-column;
+    
+}
